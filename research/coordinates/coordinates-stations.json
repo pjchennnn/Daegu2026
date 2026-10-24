@@ -1,0 +1,660 @@
+[
+  {
+    "id": "40115",
+    "name": "설화명곡",
+    "lng": 128.4893179,
+    "lat": 35.7987183,
+    "source": "https://pts.map.naver.com/end-subway/ends/web/40133/home"
+  },
+  {
+    "id": "40116",
+    "name": "화원",
+    "lng": 128.5004121,
+    "lat": 35.8043347,
+    "source": "https://pts.map.naver.com/end-subway/ends/web/40133/home"
+  },
+  {
+    "id": "40117",
+    "name": "대곡",
+    "lng": 128.5125709,
+    "lat": 35.8094867,
+    "source": "https://pts.map.naver.com/end-subway/ends/web/40133/home"
+  },
+  {
+    "id": "40118",
+    "name": "진천",
+    "lng": 128.5225769,
+    "lat": 35.8138152,
+    "source": "https://pts.map.naver.com/end-subway/ends/web/40133/home"
+  },
+  {
+    "id": "40119",
+    "name": "월배",
+    "lng": 128.5305738,
+    "lat": 35.8162641,
+    "source": "https://pts.map.naver.com/end-subway/ends/web/40133/home"
+  },
+  {
+    "id": "40120",
+    "name": "상인",
+    "lng": 128.5378723,
+    "lat": 35.8189506,
+    "source": "https://pts.map.naver.com/end-subway/ends/web/40133/home"
+  },
+  {
+    "id": "40121",
+    "name": "월촌",
+    "lng": 128.545462,
+    "lat": 35.8236869,
+    "source": "https://pts.map.naver.com/end-subway/ends/web/40133/home"
+  },
+  {
+    "id": "40122",
+    "name": "송현",
+    "lng": 128.5517487,
+    "lat": 35.8310651,
+    "source": "https://pts.map.naver.com/end-subway/ends/web/40133/home"
+  },
+  {
+    "id": "40123",
+    "name": "서부정류장",
+    "lng": 128.5574045,
+    "lat": 35.8374606,
+    "source": "https://pts.map.naver.com/end-subway/ends/web/40133/home"
+  },
+  {
+    "id": "40124",
+    "name": "대명",
+    "lng": 128.565469,
+    "lat": 35.8392925,
+    "source": "https://pts.map.naver.com/end-subway/ends/web/40133/home"
+  },
+  {
+    "id": "40125",
+    "name": "안지랑",
+    "lng": 128.5741881,
+    "lat": 35.8392096,
+    "source": "https://pts.map.naver.com/end-subway/ends/web/40133/home"
+  },
+  {
+    "id": "40126",
+    "name": "현충로",
+    "lng": 128.5813775,
+    "lat": 35.8408964,
+    "source": "https://pts.map.naver.com/end-subway/ends/web/40133/home"
+  },
+  {
+    "id": "40127",
+    "name": "영대병원",
+    "lng": 128.5882409,
+    "lat": 35.8442517,
+    "source": "https://pts.map.naver.com/end-subway/ends/web/40133/home"
+  },
+  {
+    "id": "40128",
+    "name": "교대",
+    "lng": 128.5906147,
+    "lat": 35.8510953,
+    "source": "https://pts.map.naver.com/end-subway/ends/web/40133/home"
+  },
+  {
+    "id": "40129",
+    "name": "명덕",
+    "lng": 128.5912409,
+    "lat": 35.8581447,
+    "source": "https://pts.map.naver.com/end-subway/ends/web/40133/home"
+  },
+  {
+    "id": "40130",
+    "name": "반월당",
+    "lng": 128.5933336,
+    "lat": 35.8645916,
+    "source": "https://pts.map.naver.com/end-subway/ends/web/40133/home"
+  },
+  {
+    "id": "40131",
+    "name": "중앙로",
+    "lng": 128.5939836,
+    "lat": 35.8709005,
+    "source": "https://pts.map.naver.com/end-subway/ends/web/40133/home"
+  },
+  {
+    "id": "40132",
+    "name": "대구역",
+    "lng": 128.5970668,
+    "lat": 35.8763289,
+    "source": "https://pts.map.naver.com/end-subway/ends/web/40133/home"
+  },
+  {
+    "id": "40133",
+    "name": "칠성시장",
+    "lng": 128.6051253,
+    "lat": 35.8761309,
+    "source": "https://pts.map.naver.com/end-subway/ends/web/40133/home"
+  },
+  {
+    "id": "40134",
+    "name": "신천",
+    "lng": 128.6175997,
+    "lat": 35.8746207,
+    "source": "https://pts.map.naver.com/end-subway/ends/web/40133/home"
+  },
+  {
+    "id": "40135",
+    "name": "동대구역",
+    "lng": 128.6274868,
+    "lat": 35.8774155,
+    "source": "https://pts.map.naver.com/end-subway/ends/web/40133/home"
+  },
+  {
+    "id": "40136",
+    "name": "동구청",
+    "lng": 128.6321773,
+    "lat": 35.8843567,
+    "source": "https://pts.map.naver.com/end-subway/ends/web/40133/home"
+  },
+  {
+    "id": "40137",
+    "name": "아양교",
+    "lng": 128.6398593,
+    "lat": 35.887195,
+    "source": "https://pts.map.naver.com/end-subway/ends/web/40133/home"
+  },
+  {
+    "id": "40138",
+    "name": "동촌",
+    "lng": 128.6501383,
+    "lat": 35.8861435,
+    "source": "https://pts.map.naver.com/end-subway/ends/web/40133/home"
+  },
+  {
+    "id": "40139",
+    "name": "해안",
+    "lng": 128.6598544,
+    "lat": 35.8835098,
+    "source": "https://pts.map.naver.com/end-subway/ends/web/40133/home"
+  },
+  {
+    "id": "40140",
+    "name": "방촌",
+    "lng": 128.6701698,
+    "lat": 35.8796834,
+    "source": "https://pts.map.naver.com/end-subway/ends/web/40133/home"
+  },
+  {
+    "id": "40141",
+    "name": "용계",
+    "lng": 128.6817379,
+    "lat": 35.876212,
+    "source": "https://pts.map.naver.com/end-subway/ends/web/40133/home"
+  },
+  {
+    "id": "40142",
+    "name": "율하",
+    "lng": 128.6930226,
+    "lat": 35.8695605,
+    "source": "https://pts.map.naver.com/end-subway/ends/web/40133/home"
+  },
+  {
+    "id": "40143",
+    "name": "신기",
+    "lng": 128.7016887,
+    "lat": 35.8667286,
+    "source": "https://pts.map.naver.com/end-subway/ends/web/40133/home"
+  },
+  {
+    "id": "40144",
+    "name": "반야월",
+    "lng": 128.7135716,
+    "lat": 35.8659653,
+    "source": "https://pts.map.naver.com/end-subway/ends/web/40133/home"
+  },
+  {
+    "id": "40145",
+    "name": "각산",
+    "lng": 128.7244575,
+    "lat": 35.8680433,
+    "source": "https://pts.map.naver.com/end-subway/ends/web/40133/home"
+  },
+  {
+    "id": "40146",
+    "name": "안심",
+    "lng": 128.7338683,
+    "lat": 35.8712495,
+    "source": "https://pts.map.naver.com/end-subway/ends/web/40133/home"
+  },
+  {
+    "id": "40147",
+    "name": "대구한의대병원",
+    "lng": 128.75096,
+    "lat": 35.871659,
+    "source": "https://pts.map.naver.com/end-subway/ends/web/40133/home"
+  },
+  {
+    "id": "40148",
+    "name": "부호",
+    "lng": 128.8030689,
+    "lat": 35.90017,
+    "source": "https://pts.map.naver.com/end-subway/ends/web/40133/home"
+  },
+  {
+    "id": "40149",
+    "name": "하양",
+    "lng": 128.8175086,
+    "lat": 35.909376,
+    "source": "https://pts.map.naver.com/end-subway/ends/web/40133/home"
+  },
+  {
+    "id": "40216",
+    "name": "문양",
+    "lng": 128.436972,
+    "lat": 35.8641356,
+    "source": "https://pts.map.naver.com/end-subway/ends/web/40225/home"
+  },
+  {
+    "id": "40217",
+    "name": "다사",
+    "lng": 128.4582779,
+    "lat": 35.8649471,
+    "source": "https://pts.map.naver.com/end-subway/ends/web/40225/home"
+  },
+  {
+    "id": "40218",
+    "name": "대실",
+    "lng": 128.4656013,
+    "lat": 35.8573347,
+    "source": "https://pts.map.naver.com/end-subway/ends/web/40225/home"
+  },
+  {
+    "id": "40219",
+    "name": "강창",
+    "lng": 128.4791881,
+    "lat": 35.8530612,
+    "source": "https://pts.map.naver.com/end-subway/ends/web/40225/home"
+  },
+  {
+    "id": "40220",
+    "name": "계명대",
+    "lng": 128.4919576,
+    "lat": 35.8514767,
+    "source": "https://pts.map.naver.com/end-subway/ends/web/40225/home"
+  },
+  {
+    "id": "40221",
+    "name": "성서산업단지",
+    "lng": 128.5063504,
+    "lat": 35.8518236,
+    "source": "https://pts.map.naver.com/end-subway/ends/web/40225/home"
+  },
+  {
+    "id": "40222",
+    "name": "이곡",
+    "lng": 128.5164495,
+    "lat": 35.8505766,
+    "source": "https://pts.map.naver.com/end-subway/ends/web/40225/home"
+  },
+  {
+    "id": "40223",
+    "name": "용산",
+    "lng": 128.5283585,
+    "lat": 35.8490579,
+    "source": "https://pts.map.naver.com/end-subway/ends/web/40225/home"
+  },
+  {
+    "id": "40224",
+    "name": "죽전",
+    "lng": 128.5388237,
+    "lat": 35.8507349,
+    "source": "https://pts.map.naver.com/end-subway/ends/web/40225/home"
+  },
+  {
+    "id": "40225",
+    "name": "감삼",
+    "lng": 128.5480854,
+    "lat": 35.8543252,
+    "source": "https://pts.map.naver.com/end-subway/ends/web/40225/home"
+  },
+  {
+    "id": "40226",
+    "name": "두류",
+    "lng": 128.5556934,
+    "lat": 35.8572406,
+    "source": "https://pts.map.naver.com/end-subway/ends/web/40225/home"
+  },
+  {
+    "id": "40227",
+    "name": "내당",
+    "lng": 128.5646529,
+    "lat": 35.860143,
+    "source": "https://pts.map.naver.com/end-subway/ends/web/40225/home"
+  },
+  {
+    "id": "40228",
+    "name": "반고개",
+    "lng": 128.5733558,
+    "lat": 35.8623903,
+    "source": "https://pts.map.naver.com/end-subway/ends/web/40225/home"
+  },
+  {
+    "id": "40229",
+    "name": "청라언덕",
+    "lng": 128.5829114,
+    "lat": 35.8650509,
+    "source": "https://pts.map.naver.com/end-subway/ends/web/40225/home"
+  },
+  {
+    "id": "40230",
+    "name": "반월당",
+    "lng": 128.5930229,
+    "lat": 35.8655791,
+    "source": "https://pts.map.naver.com/end-subway/ends/web/40225/home"
+  },
+  {
+    "id": "40231",
+    "name": "경대병원",
+    "lng": 128.6033807,
+    "lat": 35.8630781,
+    "source": "https://pts.map.naver.com/end-subway/ends/web/40225/home"
+  },
+  {
+    "id": "40232",
+    "name": "대구은행",
+    "lng": 128.6141506,
+    "lat": 35.8597689,
+    "source": "https://pts.map.naver.com/end-subway/ends/web/40225/home"
+  },
+  {
+    "id": "40233",
+    "name": "범어",
+    "lng": 128.626851,
+    "lat": 35.8590249,
+    "source": "https://pts.map.naver.com/end-subway/ends/web/40225/home"
+  },
+  {
+    "id": "40234",
+    "name": "수성구청",
+    "lng": 128.6357246,
+    "lat": 35.8588481,
+    "source": "https://pts.map.naver.com/end-subway/ends/web/40225/home"
+  },
+  {
+    "id": "40235",
+    "name": "만촌",
+    "lng": 128.6449819,
+    "lat": 35.8589097,
+    "source": "https://pts.map.naver.com/end-subway/ends/web/40225/home"
+  },
+  {
+    "id": "40236",
+    "name": "담티",
+    "lng": 128.6539744,
+    "lat": 35.8547831,
+    "source": "https://pts.map.naver.com/end-subway/ends/web/40225/home"
+  },
+  {
+    "id": "40237",
+    "name": "연호",
+    "lng": 128.6713342,
+    "lat": 35.8467554,
+    "source": "https://pts.map.naver.com/end-subway/ends/web/40225/home"
+  },
+  {
+    "id": "40238",
+    "name": "수성알파시티",
+    "lng": 128.6799778,
+    "lat": 35.8427314,
+    "source": "https://pts.map.naver.com/end-subway/ends/web/40225/home"
+  },
+  {
+    "id": "40239",
+    "name": "고산",
+    "lng": 128.6932913,
+    "lat": 35.8429299,
+    "source": "https://pts.map.naver.com/end-subway/ends/web/40225/home"
+  },
+  {
+    "id": "40240",
+    "name": "신매",
+    "lng": 128.7048884,
+    "lat": 35.8408719,
+    "source": "https://pts.map.naver.com/end-subway/ends/web/40225/home"
+  },
+  {
+    "id": "40241",
+    "name": "사월",
+    "lng": 128.7156226,
+    "lat": 35.8369763,
+    "source": "https://pts.map.naver.com/end-subway/ends/web/40225/home"
+  },
+  {
+    "id": "40242",
+    "name": "정평",
+    "lng": 128.728651,
+    "lat": 35.8340742,
+    "source": "https://pts.map.naver.com/end-subway/ends/web/40225/home"
+  },
+  {
+    "id": "40243",
+    "name": "임당",
+    "lng": 128.7410608,
+    "lat": 35.8341195,
+    "source": "https://pts.map.naver.com/end-subway/ends/web/40225/home"
+  },
+  {
+    "id": "40244",
+    "name": "영남대",
+    "lng": 128.7529622,
+    "lat": 35.8363478,
+    "source": "https://pts.map.naver.com/end-subway/ends/web/40225/home"
+  },
+  {
+    "id": "40320",
+    "name": "칠곡경대병원",
+    "lng": 128.5599098,
+    "lat": 35.9584388,
+    "source": "https://pts.map.naver.com/end-subway/ends/web/40336/home"
+  },
+  {
+    "id": "40321",
+    "name": "학정",
+    "lng": 128.5591892,
+    "lat": 35.951578,
+    "source": "https://pts.map.naver.com/end-subway/ends/web/40336/home"
+  },
+  {
+    "id": "40322",
+    "name": "팔거",
+    "lng": 128.5583472,
+    "lat": 35.9441292,
+    "source": "https://pts.map.naver.com/end-subway/ends/web/40336/home"
+  },
+  {
+    "id": "40323",
+    "name": "동천",
+    "lng": 128.5566637,
+    "lat": 35.9377052,
+    "source": "https://pts.map.naver.com/end-subway/ends/web/40336/home"
+  },
+  {
+    "id": "40324",
+    "name": "칠곡운암",
+    "lng": 128.5545665,
+    "lat": 35.9314837,
+    "source": "https://pts.map.naver.com/end-subway/ends/web/40336/home"
+  },
+  {
+    "id": "40325",
+    "name": "구암",
+    "lng": 128.5504182,
+    "lat": 35.9257587,
+    "source": "https://pts.map.naver.com/end-subway/ends/web/40336/home"
+  },
+  {
+    "id": "40326",
+    "name": "태전",
+    "lng": 128.5474485,
+    "lat": 35.9197126,
+    "source": "https://pts.map.naver.com/end-subway/ends/web/40336/home"
+  },
+  {
+    "id": "40327",
+    "name": "매천",
+    "lng": 128.5434201,
+    "lat": 35.9126998,
+    "source": "https://pts.map.naver.com/end-subway/ends/web/40336/home"
+  },
+  {
+    "id": "40328",
+    "name": "매천시장",
+    "lng": 128.5457445,
+    "lat": 35.9044034,
+    "source": "https://pts.map.naver.com/end-subway/ends/web/40336/home"
+  },
+  {
+    "id": "40329",
+    "name": "팔달",
+    "lng": 128.5467151,
+    "lat": 35.8978518,
+    "source": "https://pts.map.naver.com/end-subway/ends/web/40336/home"
+  },
+  {
+    "id": "40330",
+    "name": "공단",
+    "lng": 128.5536186,
+    "lat": 35.8919813,
+    "source": "https://pts.map.naver.com/end-subway/ends/web/40336/home"
+  },
+  {
+    "id": "40331",
+    "name": "만평",
+    "lng": 128.561042,
+    "lat": 35.8898619,
+    "source": "https://pts.map.naver.com/end-subway/ends/web/40336/home"
+  },
+  {
+    "id": "40332",
+    "name": "팔달시장",
+    "lng": 128.5678441,
+    "lat": 35.8888598,
+    "source": "https://pts.map.naver.com/end-subway/ends/web/40336/home"
+  },
+  {
+    "id": "40333",
+    "name": "원대",
+    "lng": 128.5742707,
+    "lat": 35.8878672,
+    "source": "https://pts.map.naver.com/end-subway/ends/web/40336/home"
+  },
+  {
+    "id": "40334",
+    "name": "북구청",
+    "lng": 128.5814425,
+    "lat": 35.8837801,
+    "source": "https://pts.map.naver.com/end-subway/ends/web/40336/home"
+  },
+  {
+    "id": "40335",
+    "name": "달성공원",
+    "lng": 128.5821042,
+    "lat": 35.8756968,
+    "source": "https://pts.map.naver.com/end-subway/ends/web/40336/home"
+  },
+  {
+    "id": "40336",
+    "name": "서문시장",
+    "lng": 128.5822396,
+    "lat": 35.869681,
+    "source": "https://pts.map.naver.com/end-subway/ends/web/40336/home"
+  },
+  {
+    "id": "40337",
+    "name": "청라언덕",
+    "lng": 128.5823512,
+    "lat": 35.8642161,
+    "source": "https://pts.map.naver.com/end-subway/ends/web/40336/home"
+  },
+  {
+    "id": "40338",
+    "name": "남산",
+    "lng": 128.5834312,
+    "lat": 35.8566594,
+    "source": "https://pts.map.naver.com/end-subway/ends/web/40336/home"
+  },
+  {
+    "id": "40339",
+    "name": "명덕",
+    "lng": 128.5901079,
+    "lat": 35.8569591,
+    "source": "https://pts.map.naver.com/end-subway/ends/web/40336/home"
+  },
+  {
+    "id": "40340",
+    "name": "건들바위",
+    "lng": 128.5997067,
+    "lat": 35.8554104,
+    "source": "https://pts.map.naver.com/end-subway/ends/web/40336/home"
+  },
+  {
+    "id": "40341",
+    "name": "대봉교",
+    "lng": 128.6063472,
+    "lat": 35.8550035,
+    "source": "https://pts.map.naver.com/end-subway/ends/web/40336/home"
+  },
+  {
+    "id": "40342",
+    "name": "수성시장",
+    "lng": 128.6160481,
+    "lat": 35.854316,
+    "source": "https://pts.map.naver.com/end-subway/ends/web/40336/home"
+  },
+  {
+    "id": "40343",
+    "name": "수성구민운동장",
+    "lng": 128.6251315,
+    "lat": 35.8524262,
+    "source": "https://pts.map.naver.com/end-subway/ends/web/40336/home"
+  },
+  {
+    "id": "40344",
+    "name": "어린이세상",
+    "lng": 128.6244713,
+    "lat": 35.8451792,
+    "source": "https://pts.map.naver.com/end-subway/ends/web/40336/home"
+  },
+  {
+    "id": "40345",
+    "name": "황금",
+    "lng": 128.6238977,
+    "lat": 35.8391014,
+    "source": "https://pts.map.naver.com/end-subway/ends/web/40336/home"
+  },
+  {
+    "id": "40346",
+    "name": "수성못",
+    "lng": 128.6232161,
+    "lat": 35.8313614,
+    "source": "https://pts.map.naver.com/end-subway/ends/web/40336/home"
+  },
+  {
+    "id": "40347",
+    "name": "지산",
+    "lng": 128.6319454,
+    "lat": 35.8251619,
+    "source": "https://pts.map.naver.com/end-subway/ends/web/40336/home"
+  },
+  {
+    "id": "40348",
+    "name": "범물",
+    "lng": 128.6400617,
+    "lat": 35.8208534,
+    "source": "https://pts.map.naver.com/end-subway/ends/web/40336/home"
+  },
+  {
+    "id": "40349",
+    "name": "용지",
+    "lng": 128.646517,
+    "lat": 35.8182735,
+    "source": "https://pts.map.naver.com/end-subway/ends/web/40336/home"
+  }
+]

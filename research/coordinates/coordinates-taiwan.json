@@ -1,0 +1,4 @@
+{
+  "candidate": null,
+  "source": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=%E6%A1%83%E5%9C%92%E5%9C%8B%E9%9A%9B%E6%A9%9F%E5%A0%B4%E7%AC%AC%E4%B8%80%E8%88%AA%E5%BB%88&f=json&outFields=Match_addr,Addr_type,PlaceName&maxLocations=1&sourceCountry=TWN&outSR=4326"
+}

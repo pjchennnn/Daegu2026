@@ -1,0 +1,599 @@
+[
+  {
+    "q": "대구 중구 달구벌대로 2238",
+    "source": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=%EB%8C%80%EA%B5%AC+%EC%A4%91%EA%B5%AC+%EB%8B%AC%EA%B5%AC%EB%B2%8C%EB%8C%80%EB%A1%9C+2238&f=json&outFields=Match_addr%2CAddr_type%2CPlaceName&maxLocations=2&sourceCountry=KOR&location=128.60%2C35.87",
+    "candidates": [
+      {
+        "address": "대구 중구 대봉동 달구벌대로 2238",
+        "location": {
+          "x": 128.607690384894,
+          "y": 35.861776473868
+        },
+        "score": 100,
+        "attributes": {
+          "Match_addr": "대구 중구 대봉동 달구벌대로 2238",
+          "Addr_type": "PointAddress",
+          "PlaceName": ""
+        },
+        "extent": {
+          "xmin": 128.607550384894,
+          "ymin": 35.861636473868,
+          "xmax": 128.607830384894,
+          "ymax": 35.861916473868
+        }
+      },
+      {
+        "address": "대구 중구",
+        "location": {
+          "x": 128.59538,
+          "y": 35.86678
+        },
+        "score": 74.17,
+        "attributes": {
+          "Match_addr": "대구 중구",
+          "Addr_type": "Locality",
+          "PlaceName": "중구"
+        },
+        "extent": {
+          "xmin": 128.57838,
+          "ymin": 35.84978,
+          "xmax": 128.61238,
+          "ymax": 35.88378
+        }
+      }
+    ]
+  },
+  {
+    "q": "대구 중구 남산로 80",
+    "source": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=%EB%8C%80%EA%B5%AC+%EC%A4%91%EA%B5%AC+%EB%82%A8%EC%82%B0%EB%A1%9C+80&f=json&outFields=Match_addr%2CAddr_type%2CPlaceName&maxLocations=2&sourceCountry=KOR&location=128.60%2C35.87",
+    "candidates": [
+      {
+        "address": "대구 중구 남산동 남산로 80",
+        "location": {
+          "x": 128.582366979021,
+          "y": 35.864153623518
+        },
+        "score": 100,
+        "attributes": {
+          "Match_addr": "대구 중구 남산동 남산로 80",
+          "Addr_type": "PointAddress",
+          "PlaceName": ""
+        },
+        "extent": {
+          "xmin": 128.581566979021,
+          "ymin": 35.863353623518,
+          "xmax": 128.583166979021,
+          "ymax": 35.864953623518
+        }
+      },
+      {
+        "address": "대구 중구",
+        "location": {
+          "x": 128.59538,
+          "y": 35.86678
+        },
+        "score": 76.94,
+        "attributes": {
+          "Match_addr": "대구 중구",
+          "Addr_type": "Locality",
+          "PlaceName": "중구"
+        },
+        "extent": {
+          "xmin": 128.57838,
+          "ymin": 35.84978,
+          "xmax": 128.61238,
+          "ymax": 35.88378
+        }
+      }
+    ]
+  },
+  {
+    "q": "대구 신남역",
+    "source": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=%EB%8C%80%EA%B5%AC+%EC%8B%A0%EB%82%A8%EC%97%AD&f=json&outFields=Match_addr%2CAddr_type%2CPlaceName&maxLocations=2&sourceCountry=KOR&location=128.60%2C35.87",
+    "candidates": [
+      {
+        "address": "대구 대구",
+        "location": {
+          "x": 128.59111,
+          "y": 35.87028
+        },
+        "score": 75.24,
+        "attributes": {
+          "Match_addr": "대구 대구",
+          "Addr_type": "Locality",
+          "PlaceName": "대구"
+        },
+        "extent": {
+          "xmin": 128.35711,
+          "ymin": 35.63628,
+          "xmax": 128.82511,
+          "ymax": 36.10428
+        }
+      },
+      {
+        "address": "대구",
+        "location": {
+          "x": 128.599376413888,
+          "y": 35.969844280992
+        },
+        "score": 75.24,
+        "attributes": {
+          "Match_addr": "대구",
+          "Addr_type": "Locality",
+          "PlaceName": "대구"
+        },
+        "extent": {
+          "xmin": 127.878676413888,
+          "ymin": 35.249144280992,
+          "xmax": 129.320076413888,
+          "ymax": 36.690544280992
+        }
+      }
+    ]
+  },
+  {
+    "q": "대구 서문시장역 3호선",
+    "source": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=%EB%8C%80%EA%B5%AC+%EC%84%9C%EB%AC%B8%EC%8B%9C%EC%9E%A5%EC%97%AD+3%ED%98%B8%EC%84%A0&f=json&outFields=Match_addr%2CAddr_type%2CPlaceName&maxLocations=2&sourceCountry=KOR&location=128.60%2C35.87",
+    "candidates": [
+      {
+        "address": "대구 대구",
+        "location": {
+          "x": 128.59111,
+          "y": 35.87028
+        },
+        "score": 72.22,
+        "attributes": {
+          "Match_addr": "대구 대구",
+          "Addr_type": "Locality",
+          "PlaceName": "대구"
+        },
+        "extent": {
+          "xmin": 128.35711,
+          "ymin": 35.63628,
+          "xmax": 128.82511,
+          "ymax": 36.10428
+        }
+      },
+      {
+        "address": "대구",
+        "location": {
+          "x": 128.599376413888,
+          "y": 35.969844280992
+        },
+        "score": 72.27,
+        "attributes": {
+          "Match_addr": "대구",
+          "Addr_type": "Locality",
+          "PlaceName": "대구"
+        },
+        "extent": {
+          "xmin": 127.878676413888,
+          "ymin": 35.249144280992,
+          "xmax": 129.320076413888,
+          "ymax": 36.690544280992
+        }
+      }
+    ]
+  },
+  {
+    "q": "대구 북구 칠성남로 218",
+    "source": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=%EB%8C%80%EA%B5%AC+%EB%B6%81%EA%B5%AC+%EC%B9%A0%EC%84%B1%EB%82%A8%EB%A1%9C+218&f=json&outFields=Match_addr%2CAddr_type%2CPlaceName&maxLocations=2&sourceCountry=KOR&location=128.60%2C35.87",
+    "candidates": [
+      {
+        "address": "대구 북구 칠성동1가 칠성남로 218",
+        "location": {
+          "x": 128.604077888489,
+          "y": 35.876274439115
+        },
+        "score": 100,
+        "attributes": {
+          "Match_addr": "대구 북구 칠성동1가 칠성남로 218",
+          "Addr_type": "StreetAddress",
+          "PlaceName": ""
+        },
+        "extent": {
+          "xmin": 128.604067888489,
+          "ymin": 35.876264439115,
+          "xmax": 128.604087888489,
+          "ymax": 35.876284439115
+        }
+      },
+      {
+        "address": "대구 북구 칠성동2가 칠성남로 218",
+        "location": {
+          "x": 128.601250754411,
+          "y": 35.876518087385
+        },
+        "score": 98.9,
+        "attributes": {
+          "Match_addr": "대구 북구 칠성동2가 칠성남로 218",
+          "Addr_type": "StreetAddressExt",
+          "PlaceName": ""
+        },
+        "extent": {
+          "xmin": 128.601240754411,
+          "ymin": 35.876508087385,
+          "xmax": 128.601260754411,
+          "ymax": 35.876528087385
+        }
+      }
+    ]
+  },
+  {
+    "q": "경북 경주시 강변로 184",
+    "source": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=%EA%B2%BD%EB%B6%81+%EA%B2%BD%EC%A3%BC%EC%8B%9C+%EA%B0%95%EB%B3%80%EB%A1%9C+184&f=json&outFields=Match_addr%2CAddr_type%2CPlaceName&maxLocations=2&sourceCountry=KOR&location=128.60%2C35.87",
+    "candidates": [
+      {
+        "address": "경북 경주시 노서동 강변로 184",
+        "location": {
+          "x": 129.202463025787,
+          "y": 35.839758429602
+        },
+        "score": 100,
+        "attributes": {
+          "Match_addr": "경북 경주시 노서동 강변로 184",
+          "Addr_type": "PointAddress",
+          "PlaceName": ""
+        },
+        "extent": {
+          "xmin": 129.202023025787,
+          "ymin": 35.839318429602,
+          "xmax": 129.202903025787,
+          "ymax": 35.840198429602
+        }
+      },
+      {
+        "address": "경북 경주시 성건동 강변로 184",
+        "location": {
+          "x": 129.200968876874,
+          "y": 35.842149831865
+        },
+        "score": 98.9,
+        "attributes": {
+          "Match_addr": "경북 경주시 성건동 강변로 184",
+          "Addr_type": "StreetAddressExt",
+          "PlaceName": ""
+        },
+        "extent": {
+          "xmin": 129.200958876874,
+          "ymin": 35.842139831865,
+          "xmax": 129.200978876874,
+          "ymax": 35.842159831865
+        }
+      }
+    ]
+  },
+  {
+    "q": "대구 수성구 두산동 512",
+    "source": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=%EB%8C%80%EA%B5%AC+%EC%88%98%EC%84%B1%EA%B5%AC+%EB%91%90%EC%82%B0%EB%8F%99+512&f=json&outFields=Match_addr%2CAddr_type%2CPlaceName&maxLocations=2&sourceCountry=KOR&location=128.60%2C35.87",
+    "candidates": [
+      {
+        "address": "대구 수성구 두산동 51-2",
+        "location": {
+          "x": 128.61965530022,
+          "y": 35.836409649736
+        },
+        "score": 99.99,
+        "attributes": {
+          "Match_addr": "대구 수성구 두산동 51-2",
+          "Addr_type": "PointAddress",
+          "PlaceName": ""
+        },
+        "extent": {
+          "xmin": 128.61949530022,
+          "ymin": 35.836249649735,
+          "xmax": 128.61981530022,
+          "ymax": 35.836569649736
+        }
+      },
+      {
+        "address": "대구 수성구 두산동 512",
+        "location": {
+          "x": 128.618376137977,
+          "y": 35.829403174962
+        },
+        "score": 100,
+        "attributes": {
+          "Match_addr": "대구 수성구 두산동 512",
+          "Addr_type": "PointAddress",
+          "PlaceName": ""
+        },
+        "extent": {
+          "xmin": 128.617396137977,
+          "ymin": 35.828423174962,
+          "xmax": 128.619356137977,
+          "ymax": 35.830383174962
+        }
+      }
+    ]
+  },
+  {
+    "q": "대구 남구 대명로36길 64",
+    "source": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=%EB%8C%80%EA%B5%AC+%EB%82%A8%EA%B5%AC+%EB%8C%80%EB%AA%85%EB%A1%9C36%EA%B8%B8+64&f=json&outFields=Match_addr%2CAddr_type%2CPlaceName&maxLocations=2&sourceCountry=KOR&location=128.60%2C35.87",
+    "candidates": [
+      {
+        "address": "대구 남구 대명동 대명로36길 64",
+        "location": {
+          "x": 128.574338289245,
+          "y": 35.836777028552
+        },
+        "score": 100,
+        "attributes": {
+          "Match_addr": "대구 남구 대명동 대명로36길 64",
+          "Addr_type": "PointAddress",
+          "PlaceName": ""
+        },
+        "extent": {
+          "xmin": 128.574168289245,
+          "ymin": 35.836607028552,
+          "xmax": 128.574508289245,
+          "ymax": 35.836947028552
+        }
+      },
+      {
+        "address": "대구 남구 대명동 대명로 36",
+        "location": {
+          "x": 128.561560453114,
+          "y": 35.838492447847
+        },
+        "score": 97.5,
+        "attributes": {
+          "Match_addr": "대구 남구 대명동 대명로 36",
+          "Addr_type": "StreetAddress",
+          "PlaceName": ""
+        },
+        "extent": {
+          "xmin": 128.561550453114,
+          "ymin": 35.838482447847,
+          "xmax": 128.561570453114,
+          "ymax": 35.838502447847
+        }
+      }
+    ]
+  },
+  {
+    "q": "대구 두류공원로 200 83타워",
+    "source": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=%EB%8C%80%EA%B5%AC+%EB%91%90%EB%A5%98%EA%B3%B5%EC%9B%90%EB%A1%9C+200+83%ED%83%80%EC%9B%8C&f=json&outFields=Match_addr%2CAddr_type%2CPlaceName&maxLocations=2&sourceCountry=KOR&location=128.60%2C35.87",
+    "candidates": [
+      {
+        "address": "대구 달서구 두류동 두류공원로 200",
+        "location": {
+          "x": 128.561187083163,
+          "y": 35.854601187564
+        },
+        "score": 88.57,
+        "attributes": {
+          "Match_addr": "대구 달서구 두류동 두류공원로 200",
+          "Addr_type": "PointAddress",
+          "PlaceName": ""
+        },
+        "extent": {
+          "xmin": 128.560517083163,
+          "ymin": 35.853931187564,
+          "xmax": 128.561857083163,
+          "ymax": 35.855271187564
+        }
+      },
+      {
+        "address": "대구 달서구 성당동 두류공원로 200",
+        "location": {
+          "x": 128.565257620145,
+          "y": 35.849903664809
+        },
+        "score": 87.47,
+        "attributes": {
+          "Match_addr": "대구 달서구 성당동 두류공원로 200",
+          "Addr_type": "StreetAddressExt",
+          "PlaceName": ""
+        },
+        "extent": {
+          "xmin": 128.565247620145,
+          "ymin": 35.849893664809,
+          "xmax": 128.565267620145,
+          "ymax": 35.849913664809
+        }
+      }
+    ]
+  },
+  {
+    "q": "Apsan Observatory Daegu",
+    "source": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=Apsan+Observatory+Daegu&f=json&outFields=Match_addr%2CAddr_type%2CPlaceName&maxLocations=2&sourceCountry=KOR&location=128.60%2C35.87",
+    "candidates": [
+      {
+        "address": "Daegu",
+        "location": {
+          "x": 128.59111,
+          "y": 35.87028
+        },
+        "score": 73,
+        "attributes": {
+          "Match_addr": "Daegu",
+          "Addr_type": "Locality",
+          "PlaceName": "Daegu"
+        },
+        "extent": {
+          "xmin": 128.35711,
+          "ymin": 35.63628,
+          "xmax": 128.82511,
+          "ymax": 36.10428
+        }
+      },
+      {
+        "address": "Daegu",
+        "location": {
+          "x": 128.599376413888,
+          "y": 35.969844280992
+        },
+        "score": 73,
+        "attributes": {
+          "Match_addr": "Daegu",
+          "Addr_type": "Locality",
+          "PlaceName": "Daegu"
+        },
+        "extent": {
+          "xmin": 127.878676413888,
+          "ymin": 35.249144280992,
+          "xmax": 129.320076413888,
+          "ymax": 36.690544280992
+        }
+      }
+    ]
+  },
+  {
+    "q": "대구 약령시한의약박물관",
+    "source": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=%EB%8C%80%EA%B5%AC+%EC%95%BD%EB%A0%B9%EC%8B%9C%ED%95%9C%EC%9D%98%EC%95%BD%EB%B0%95%EB%AC%BC%EA%B4%80&f=json&outFields=Match_addr%2CAddr_type%2CPlaceName&maxLocations=2&sourceCountry=KOR&location=128.60%2C35.87",
+    "candidates": [
+      {
+        "address": "대구 대구",
+        "location": {
+          "x": 128.59111,
+          "y": 35.87028
+        },
+        "score": 72.59,
+        "attributes": {
+          "Match_addr": "대구 대구",
+          "Addr_type": "Locality",
+          "PlaceName": "대구"
+        },
+        "extent": {
+          "xmin": 128.35711,
+          "ymin": 35.63628,
+          "xmax": 128.82511,
+          "ymax": 36.10428
+        }
+      },
+      {
+        "address": "대구",
+        "location": {
+          "x": 128.599376413888,
+          "y": 35.969844280992
+        },
+        "score": 72.27,
+        "attributes": {
+          "Match_addr": "대구",
+          "Addr_type": "Locality",
+          "PlaceName": "대구"
+        },
+        "extent": {
+          "xmin": 127.878676413888,
+          "ymin": 35.249144280992,
+          "xmax": 129.320076413888,
+          "ymax": 36.690544280992
+        }
+      }
+    ]
+  },
+  {
+    "q": "Daegu Seomun Market Station",
+    "source": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=Daegu+Seomun+Market+Station&f=json&outFields=Match_addr%2CAddr_type%2CPlaceName&maxLocations=2&sourceCountry=KOR&location=128.60%2C35.87",
+    "candidates": [
+      {
+        "address": "Daegu",
+        "location": {
+          "x": 128.59111,
+          "y": 35.87028
+        },
+        "score": 70,
+        "attributes": {
+          "Match_addr": "Daegu",
+          "Addr_type": "Locality",
+          "PlaceName": "Daegu"
+        },
+        "extent": {
+          "xmin": 128.35711,
+          "ymin": 35.63628,
+          "xmax": 128.82511,
+          "ymax": 36.10428
+        }
+      },
+      {
+        "address": "Daegu",
+        "location": {
+          "x": 128.599376413888,
+          "y": 35.969844280992
+        },
+        "score": 70,
+        "attributes": {
+          "Match_addr": "Daegu",
+          "Addr_type": "Locality",
+          "PlaceName": "Daegu"
+        },
+        "extent": {
+          "xmin": 127.878676413888,
+          "ymin": 35.249144280992,
+          "xmax": 129.320076413888,
+          "ymax": 36.690544280992
+        }
+      }
+    ]
+  },
+  {
+    "q": "대구 솔마루식당",
+    "source": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=%EB%8C%80%EA%B5%AC+%EC%86%94%EB%A7%88%EB%A3%A8%EC%8B%9D%EB%8B%B9&f=json&outFields=Match_addr%2CAddr_type%2CPlaceName&maxLocations=2&sourceCountry=KOR&location=128.60%2C35.87",
+    "candidates": [
+      {
+        "address": "마루식당",
+        "location": {
+          "x": 128.629444732,
+          "y": 35.876836881
+        },
+        "score": 91.57,
+        "attributes": {
+          "Match_addr": "마루식당",
+          "Addr_type": "POI",
+          "PlaceName": "마루식당"
+        },
+        "extent": {
+          "xmin": 128.628444732,
+          "ymin": 35.875836881,
+          "xmax": 128.630444732,
+          "ymax": 35.877836881
+        }
+      },
+      {
+        "address": "솔마루",
+        "location": {
+          "x": 128.588614317,
+          "y": 35.865885584
+        },
+        "score": 83.14,
+        "attributes": {
+          "Match_addr": "솔마루",
+          "Addr_type": "POI",
+          "PlaceName": "솔마루"
+        },
+        "extent": {
+          "xmin": 128.587614317,
+          "ymin": 35.864885584,
+          "xmax": 128.589614317,
+          "ymax": 35.866885584
+        }
+      }
+    ]
+  },
+  {
+    "q": "경주 남산동 통일전 은행나무",
+    "source": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=%EA%B2%BD%EC%A3%BC+%EB%82%A8%EC%82%B0%EB%8F%99+%ED%86%B5%EC%9D%BC%EC%A0%84+%EC%9D%80%ED%96%89%EB%82%98%EB%AC%B4&f=json&outFields=Match_addr%2CAddr_type%2CPlaceName&maxLocations=2&sourceCountry=KOR&location=128.60%2C35.87",
+    "candidates": [
+      {
+        "address": "경상북도 경주 남산동",
+        "location": {
+          "x": 129.240633513648,
+          "y": 35.790908698273
+        },
+        "score": 75.9,
+        "attributes": {
+          "Match_addr": "경상북도 경주 남산동",
+          "Addr_type": "Locality",
+          "PlaceName": "남산동"
+        },
+        "extent": {
+          "xmin": 129.192023513648,
+          "ymin": 35.742298698273,
+          "xmax": 129.289243513648,
+          "ymax": 35.839518698273
+        }
+      }
+    ]
+  }
+]

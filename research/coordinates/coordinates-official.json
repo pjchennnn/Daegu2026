@@ -1,0 +1,118 @@
+[
+  {
+    "url": "https://pts.map.naver.com/end-subway/ends/web/40336/home",
+    "values": [
+      "\"transport\":{\"id\":\"subway\",\"name\":\"지하철\"},\"point\":{\"x\":128.5822396,\"y\":35.869681},\"city\":{\"id\":4000,\"name\":\"대구\"},\"address\":\"",
+      "\"transport\":{\"id\":\"subway\",\"name\":\"지하철\"},\"point\":{\"x\":128.5821042,\"y\":35.8756968},\"city\":{\"id\":4000,\"name\":\"대구\"},\"address\":",
+      "\"transport\":{\"id\":\"subway\",\"name\":\"지하철\"},\"point\":{\"x\":128.5823512,\"y\":35.8642161},\"city\":{\"id\":4000,\"name\":\"대구\"},\"address\":",
+      "업은행 동산동지점, 우리은행 동산동지점, 서문지구대, 성내3동 주민센터\",\"point\":{\"x\":128.5823857,\"y\":35.8698037},\"busStops\":[{\"id\":432040,\"name\":\"섬유회관앞\",\"",
+      "},{\"no\":\"2\",\"link\":\"대구은행 대신동영업소, 대성초등학교\",\"point\":{\"x\":128.5821211,\"y\":35.8697959},\"busStops\":[{\"id\":432009,\"name\":\"큰장네거리1\",",
+      "\":\"서문시장, 계성중고등학교, 신한은행 대신동지점, 대신119안전센터\",\"point\":{\"x\":128.5821301,\"y\":35.869353},\"busStops\":[{\"id\":431135,\"name\":\"서문시장\",\"lo",
+      "\"link\":\"동산병원, 동산의료원우체국, 성명여자중학교, 신명고등학교\",\"point\":{\"x\":128.5823936,\"y\":35.8693704},\"busStops\":[{\"id\":431134,\"name\":\"계명대학교 대구",
+      "ss\":false,\"stations\":[{\"id\":40320,\"name\":\"칠곡경대병원\",\"longitude\":128.5599098,\"latitude\":35.9584388,\"transferLaneTypes\":[],\"displa",
+      "병원역\",\"displayCode\":\"312\"},{\"id\":40321,\"name\":\"학정\",\"longitude\":128.5591892,\"latitude\":35.951578,\"transferLaneTypes\":[],\"display",
+      "학정역\",\"displayCode\":\"313\"},{\"id\":40322,\"name\":\"팔거\",\"longitude\":128.5583472,\"latitude\":35.9441292,\"transferLaneTypes\":[],\"displa",
+      "팔거역\",\"displayCode\":\"314\"},{\"id\":40323,\"name\":\"동천\",\"longitude\":128.5566637,\"latitude\":35.9377052,\"transferLaneTypes\":[],\"displa",
+      "역\",\"displayCode\":\"315\"},{\"id\":40324,\"name\":\"칠곡운암\",\"longitude\":128.5545665,\"latitude\":35.9314837,\"transferLaneTypes\":[],\"displa",
+      "운암역\",\"displayCode\":\"316\"},{\"id\":40325,\"name\":\"구암\",\"longitude\":128.5504182,\"latitude\":35.9257587,\"transferLaneTypes\":[],\"displa",
+      "구암역\",\"displayCode\":\"317\"},{\"id\":40326,\"name\":\"태전\",\"longitude\":128.5474485,\"latitude\":35.9197126,\"transferLaneTypes\":[],\"displa",
+      "태전역\",\"displayCode\":\"318\"},{\"id\":40327,\"name\":\"매천\",\"longitude\":128.5434201,\"latitude\":35.9126998,\"transferLaneTypes\":[],\"displa",
+      "역\",\"displayCode\":\"319\"},{\"id\":40328,\"name\":\"매천시장\",\"longitude\":128.5457445,\"latitude\":35.9044034,\"transferLaneTypes\":[],\"displa",
+      "시장역\",\"displayCode\":\"320\"},{\"id\":40329,\"name\":\"팔달\",\"longitude\":128.5467151,\"latitude\":35.8978518,\"transferLaneTypes\":[],\"displa",
+      "팔달역\",\"displayCode\":\"321\"},{\"id\":40330,\"name\":\"공단\",\"longitude\":128.5536186,\"latitude\":35.8919813,\"transferLaneTypes\":[],\"displa",
+      "공단역\",\"displayCode\":\"322\"},{\"id\":40331,\"name\":\"만평\",\"longitude\":128.561042,\"latitude\":35.8898619,\"transferLaneTypes\":[],\"display",
+      "역\",\"displayCode\":\"323\"},{\"id\":40332,\"name\":\"팔달시장\",\"longitude\":128.5678441,\"latitude\":35.8888598,\"transferLaneTypes\":[],\"displa",
+      "시장역\",\"displayCode\":\"324\"},{\"id\":40333,\"name\":\"원대\",\"longitude\":128.5742707,\"latitude\":35.8878672,\"transferLaneTypes\":[],\"displa",
+      "대역\",\"displayCode\":\"325\"},{\"id\":40334,\"name\":\"북구청\",\"longitude\":128.5814425,\"latitude\":35.8837801,\"transferLaneTypes\":[],\"displa",
+      "역\",\"displayCode\":\"326\"},{\"id\":40335,\"name\":\"달성공원\",\"longitude\":128.5821042,\"latitude\":35.8756968,\"transferLaneTypes\":[],\"displa",
+      "역\",\"displayCode\":\"327\"},{\"id\":40336,\"name\":\"서문시장\",\"longitude\":128.5822396,\"latitude\":35.869681,\"transferLaneTypes\":[],\"display",
+      "역\",\"displayCode\":\"328\"},{\"id\":40337,\"name\":\"청라언덕\",\"longitude\":128.5823512,\"latitude\":35.8642161,\"transferLaneTypes\":[{\"iconId\"",
+      "언덕역\",\"displayCode\":\"329\"},{\"id\":40338,\"name\":\"남산\",\"longitude\":128.5834312,\"latitude\":35.8566594,\"transferLaneTypes\":[],\"displa",
+      "남산역\",\"displayCode\":\"330\"},{\"id\":40339,\"name\":\"명덕\",\"longitude\":128.5901079,\"latitude\":35.8569591,\"transferLaneTypes\":[{\"iconId\"",
+      "역\",\"displayCode\":\"331\"},{\"id\":40340,\"name\":\"건들바위\",\"longitude\":128.5997067,\"latitude\":35.8554104,\"transferLaneTypes\":[],\"displa",
+      "위역\",\"displayCode\":\"332\"},{\"id\":40341,\"name\":\"대봉교\",\"longitude\":128.6063472,\"latitude\":35.8550035,\"transferLaneTypes\":[],\"displa",
+      "역\",\"displayCode\":\"333\"},{\"id\":40342,\"name\":\"수성시장\",\"longitude\":128.6160481,\"latitude\":35.854316,\"transferLaneTypes\":[],\"display",
+      "\"displayCode\":\"334\"},{\"id\":40343,\"name\":\"수성구민운동장\",\"longitude\":128.6251315,\"latitude\":35.8524262,\"transferLaneTypes\":[],\"displa",
+      "\",\"displayCode\":\"335\"},{\"id\":40344,\"name\":\"어린이세상\",\"longitude\":128.6244713,\"latitude\":35.8451792,\"transferLaneTypes\":[],\"displa",
+      "세상역\",\"displayCode\":\"336\"},{\"id\":40345,\"name\":\"황금\",\"longitude\":128.6238977,\"latitude\":35.8391014,\"transferLaneTypes\":[],\"displa",
+      "금역\",\"displayCode\":\"337\"},{\"id\":40346,\"name\":\"수성못\",\"longitude\":128.6232161,\"latitude\":35.8313614,\"transferLaneTypes\":[],\"displa",
+      "성못역\",\"displayCode\":\"338\"},{\"id\":40347,\"name\":\"지산\",\"longitude\":128.6319454,\"latitude\":35.8251619,\"transferLaneTypes\":[],\"displa",
+      "지산역\",\"displayCode\":\"339\"},{\"id\":40348,\"name\":\"범물\",\"longitude\":128.6400617,\"latitude\":35.8208534,\"transferLaneTypes\":[],\"displa",
+      "범물역\",\"displayCode\":\"340\"},{\"id\":40349,\"name\":\"용지\",\"longitude\":128.646517,\"latitude\":35.8182735,\"transferLaneTypes\":[],\"display"
+    ]
+  },
+  {
+    "url": "https://pts.map.naver.com/end-subway/ends/web/40133/home",
+    "values": [
+      "\"transport\":{\"id\":\"subway\",\"name\":\"지하철\"},\"point\":{\"x\":128.6051253,\"y\":35.8761309},\"city\":{\"id\":4000,\"name\":\"대구\"},\"address\":",
+      "\"transport\":{\"id\":\"subway\",\"name\":\"지하철\"},\"point\":{\"x\":128.5970668,\"y\":35.8763289},\"city\":{\"id\":4000,\"name\":\"대구\"},\"address\":",
+      "\"transport\":{\"id\":\"subway\",\"name\":\"지하철\"},\"point\":{\"x\":128.6175997,\"y\":35.8746207},\"city\":{\"id\":4000,\"name\":\"대구\"},\"address\":",
+      "전센터, 경대교, 농협칠성동지점, 북구새마을금고, 새마을금고칠성시장지점\",\"point\":{\"x\":128.6042838,\"y\":35.8763896},\"busStops\":[{\"id\":420892,\"name\":\"칠성시장(양친회",
+      ",{\"no\":\"2\",\"link\":\"칠성종합시장, 동인네거리, 동인아파트\",\"point\":{\"x\":128.604474,\"y\":35.876067},\"busStops\":[{\"id\":432123,\"name\":\"칠성시장역(서문프라",
+      "link\":\"동인네거리, 칠성종합시장, 동인아파트, 우리은행 칠성동지점\",\"point\":{\"x\":128.6059727,\"y\":35.8757524},\"busStops\":[{\"id\":423715,\"name\":\"태평상가앞2\",",
+      "북지역본부, 대구복지신협, 대현주공뜨란채아파트, 대현 e-편한세상아파트\",\"point\":{\"x\":128.6060442,\"y\":35.8760405},\"busStops\":[{\"id\":420808,\"name\":\"신성교\",\"lo",
+      "ress\":false,\"stations\":[{\"id\":40115,\"name\":\"설화명곡\",\"longitude\":128.4893179,\"latitude\":35.7987183,\"transferLaneTypes\":[],\"displa",
+      "명곡역\",\"displayCode\":\"115\"},{\"id\":40116,\"name\":\"화원\",\"longitude\":128.5004121,\"latitude\":35.8043347,\"transferLaneTypes\":[],\"displa",
+      "화원역\",\"displayCode\":\"116\"},{\"id\":40117,\"name\":\"대곡\",\"longitude\":128.5125709,\"latitude\":35.8094867,\"transferLaneTypes\":[],\"displa",
+      "대곡역\",\"displayCode\":\"117\"},{\"id\":40118,\"name\":\"진천\",\"longitude\":128.5225769,\"latitude\":35.8138152,\"transferLaneTypes\":[],\"displa",
+      "진천역\",\"displayCode\":\"118\"},{\"id\":40119,\"name\":\"월배\",\"longitude\":128.5305738,\"latitude\":35.8162641,\"transferLaneTypes\":[],\"displa",
+      "월배역\",\"displayCode\":\"119\"},{\"id\":40120,\"name\":\"상인\",\"longitude\":128.5378723,\"latitude\":35.8189506,\"transferLaneTypes\":[],\"displa",
+      "상인역\",\"displayCode\":\"120\"},{\"id\":40121,\"name\":\"월촌\",\"longitude\":128.545462,\"latitude\":35.8236869,\"transferLaneTypes\":[],\"display",
+      "월촌역\",\"displayCode\":\"121\"},{\"id\":40122,\"name\":\"송현\",\"longitude\":128.5517487,\"latitude\":35.8310651,\"transferLaneTypes\":[],\"displa",
+      "\",\"displayCode\":\"122\"},{\"id\":40123,\"name\":\"서부정류장\",\"longitude\":128.5574045,\"latitude\":35.8374606,\"transferLaneTypes\":[],\"displa",
+      "류장역\",\"displayCode\":\"123\"},{\"id\":40124,\"name\":\"대명\",\"longitude\":128.565469,\"latitude\":35.8392925,\"transferLaneTypes\":[],\"display",
+      "명역\",\"displayCode\":\"124\"},{\"id\":40125,\"name\":\"안지랑\",\"longitude\":128.5741881,\"latitude\":35.8392096,\"transferLaneTypes\":[],\"displa",
+      "랑역\",\"displayCode\":\"125\"},{\"id\":40126,\"name\":\"현충로\",\"longitude\":128.5813775,\"latitude\":35.8408964,\"transferLaneTypes\":[],\"displa",
+      "역\",\"displayCode\":\"126\"},{\"id\":40127,\"name\":\"영대병원\",\"longitude\":128.5882409,\"latitude\":35.8442517,\"transferLaneTypes\":[],\"displa",
+      "병원역\",\"displayCode\":\"127\"},{\"id\":40128,\"name\":\"교대\",\"longitude\":128.5906147,\"latitude\":35.8510953,\"transferLaneTypes\":[],\"displa",
+      "교대역\",\"displayCode\":\"128\"},{\"id\":40129,\"name\":\"명덕\",\"longitude\":128.5912409,\"latitude\":35.8581447,\"transferLaneTypes\":[{\"iconId\"",
+      "덕역\",\"displayCode\":\"129\"},{\"id\":40130,\"name\":\"반월당\",\"longitude\":128.5933336,\"latitude\":35.8645916,\"transferLaneTypes\":[{\"iconId\"",
+      "당역\",\"displayCode\":\"130\"},{\"id\":40131,\"name\":\"중앙로\",\"longitude\":128.5939836,\"latitude\":35.8709005,\"transferLaneTypes\":[],\"displa",
+      "로역\",\"displayCode\":\"131\"},{\"id\":40132,\"name\":\"대구역\",\"longitude\":128.5970668,\"latitude\":35.8763289,\"transferLaneTypes\":[{\"iconId\"",
+      "역\",\"displayCode\":\"132\"},{\"id\":40133,\"name\":\"칠성시장\",\"longitude\":128.6051253,\"latitude\":35.8761309,\"transferLaneTypes\":[],\"displa",
+      "시장역\",\"displayCode\":\"133\"},{\"id\":40134,\"name\":\"신천\",\"longitude\":128.6175997,\"latitude\":35.8746207,\"transferLaneTypes\":[],\"displa",
+      "역\",\"displayCode\":\"134\"},{\"id\":40135,\"name\":\"동대구역\",\"longitude\":128.6274868,\"latitude\":35.8774155,\"transferLaneTypes\":[{\"iconId\"",
+      "구역\",\"displayCode\":\"135\"},{\"id\":40136,\"name\":\"동구청\",\"longitude\":128.6321773,\"latitude\":35.8843567,\"transferLaneTypes\":[],\"displa",
+      "청역\",\"displayCode\":\"136\"},{\"id\":40137,\"name\":\"아양교\",\"longitude\":128.6398593,\"latitude\":35.887195,\"transferLaneTypes\":[],\"display",
+      "양교역\",\"displayCode\":\"137\"},{\"id\":40138,\"name\":\"동촌\",\"longitude\":128.6501383,\"latitude\":35.8861435,\"transferLaneTypes\":[],\"displa",
+      "동촌역\",\"displayCode\":\"138\"},{\"id\":40139,\"name\":\"해안\",\"longitude\":128.6598544,\"latitude\":35.8835098,\"transferLaneTypes\":[],\"displa",
+      "해안역\",\"displayCode\":\"139\"},{\"id\":40140,\"name\":\"방촌\",\"longitude\":128.6701698,\"latitude\":35.8796834,\"transferLaneTypes\":[],\"displa",
+      "방촌역\",\"displayCode\":\"140\"},{\"id\":40141,\"name\":\"용계\",\"longitude\":128.6817379,\"latitude\":35.876212,\"transferLaneTypes\":[],\"display",
+      "용계역\",\"displayCode\":\"141\"},{\"id\":40142,\"name\":\"율하\",\"longitude\":128.6930226,\"latitude\":35.8695605,\"transferLaneTypes\":[],\"displa",
+      "율하역\",\"displayCode\":\"142\"},{\"id\":40143,\"name\":\"신기\",\"longitude\":128.7016887,\"latitude\":35.8667286,\"transferLaneTypes\":[],\"displa",
+      "기역\",\"displayCode\":\"143\"},{\"id\":40144,\"name\":\"반야월\",\"longitude\":128.7135716,\"latitude\":35.8659653,\"transferLaneTypes\":[],\"displa",
+      "야월역\",\"displayCode\":\"144\"},{\"id\":40145,\"name\":\"각산\",\"longitude\":128.7244575,\"latitude\":35.8680433,\"transferLaneTypes\":[],\"displa",
+      "각산역\",\"displayCode\":\"145\"},{\"id\":40146,\"name\":\"안심\",\"longitude\":128.7338683,\"latitude\":35.8712495,\"transferLaneTypes\":[],\"displa",
+      "\"displayCode\":\"146\"},{\"id\":40147,\"name\":\"대구한의대병원\",\"longitude\":128.75096,\"latitude\":35.871659,\"transferLaneTypes\":[],\"displayNa",
+      "병원역\",\"displayCode\":\"147\"},{\"id\":40148,\"name\":\"부호\",\"longitude\":128.8030689,\"latitude\":35.90017,\"transferLaneTypes\":[],\"displayN",
+      "부호역\",\"displayCode\":\"148\"},{\"id\":40149,\"name\":\"하양\",\"longitude\":128.8175086,\"latitude\":35.909376,\"transferLaneTypes\":[],\"display"
+    ]
+  },
+  {
+    "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=77261",
+    "values": [
+      "                            \"latitude\":\"35.8532380108522\",",
+      "                            \"longitude\":\"128.566562041733\"",
+      "    var lat = 35.853238010852200;",
+      "    var lot = 128.566562041733000;"
+    ]
+  },
+  {
+    "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=68080",
+    "values": [
+      "                            \"latitude\":\"35.8243584948926\",",
+      "                            \"longitude\":\"128.587135911946\"",
+      "    var lat = 35.824358494892600;",
+      "    var lot = 128.587135911946000;"
+    ]
+  },
+  {
+    "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=68482",
+    "values": [
+      "                            \"latitude\":\"35.8267975731041\",",
+      "                            \"longitude\":\"128.612847307235\"",
+      "    var lat = 35.826797573104100;",
+      "    var lot = 128.612847307235000;"
+    ]
+  }
+]
