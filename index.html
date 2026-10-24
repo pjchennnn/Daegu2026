@@ -61,7 +61,11 @@ simplifyToggle.addEventListener('click',()=>{
   if(anchor)window.scrollBy({top:anchor.getBoundingClientRect().top-before,behavior:'instant'});
 });
 // Search only usable Korean addresses; never pass explanatory copy text to Maps.
-const naverAppName=encodeURIComponent('https://pjchennnn.github.io/Deagu2026/');
+const naverAppName=encodeURIComponent('https://pjchennnn.github.io/Daegu2026/');
+// Hotel pilot: coordinates from Korea Tourism Organization, vcontsId=95386.
+const naverPlaces={
+  '대구 중구 달구벌대로 2033':{name:'伊爾迪斯麗晶飯店',lat:35.8666117838159,lng:128.586073713096}
+};
 document.querySelectorAll('[data-copy]').forEach(copy=>{
   const value=copy.dataset.copy;
   if(!/^(대구|경북|경상북도)/.test(value))return;
@@ -73,15 +77,18 @@ document.querySelectorAll('[data-copy]').forEach(copy=>{
   queries.forEach((query,index)=>{
     const encoded=encodeURIComponent(query);
     const webUrl='https://map.naver.com/p/search/'+encoded;
-    const params='query='+encoded+'&appname='+naverAppName;
+    const place=naverPlaces[query];
+    const action=place?'place':'search';
+    const params=(place?'lat='+place.lat+'&lng='+place.lng+'&name='+encodeURIComponent(place.name):'query='+encoded)+'&appname='+naverAppName;
     const app=document.createElement('a');
     app.className='naver-link';
     app.textContent=queries.length>1?'Naver 地圖 '+(index+1):'Naver 地圖';
-    app.setAttribute('aria-label','在 Naver 地圖搜尋 '+query);
+    if(place)app.textContent='Naver 地圖・'+place.name;
+    app.setAttribute('aria-label',place?'在 Naver 地圖顯示 '+place.name:'在 Naver 地圖搜尋 '+query);
     // Desktop uses the web map; mobile launch remains a direct user gesture.
     const android=/Android/i.test(navigator.userAgent);
     const ios=/iPhone|iPad|iPod/i.test(navigator.userAgent)||(navigator.platform==='MacIntel'&&navigator.maxTouchPoints>1);
-    app.href=android?'intent://search?'+params+'#Intent;scheme=nmap;package=com.nhn.android.nmap;S.browser_fallback_url='+encodeURIComponent(webUrl)+';end':ios?'nmap://search?'+params:webUrl;
+    app.href=android?'intent://'+action+'?'+params+'#Intent;scheme=nmap;package=com.nhn.android.nmap;S.browser_fallback_url='+encodeURIComponent(webUrl)+';end':ios?'nmap://'+action+'?'+params:webUrl;
     const web=document.createElement('a');
     web.className='naver-web';
     web.textContent=queries.length>1?'網頁版 '+(index+1):'網頁版';
